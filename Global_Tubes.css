@@ -1,0 +1,74 @@
+.logos
+{
+    width: 100%;    
+}
+#logo_col1
+{
+    width: 20%;
+}
+#logo_col2
+{
+    width: 50%;
+    text-align: center;
+}
+#logo_col3
+{
+    width: 30%;
+}
+.Customer_detail
+{
+    width: 100%;
+    height: auto;
+    border: 3px ridge black;
+    border-radius: 5px;
+    padding: 2px;
+}
+.Customer_detail tr
+{
+    width: 99%;
+    
+}
+
+.Products_descp
+{
+   width: 100%;
+   border: 2px dotted black;
+   border-radius: 10px;
+}
+.Products_descp tr
+{
+    width: 99%;
+    border: 2px solid black;
+}
+.Products_descp th
+{
+    width: 5px;
+    text-align: left;
+}
+.Products_descp td
+{
+    width: 2px;
+    border: 2px solid black;
+}
+.final_billing
+{
+    width: 100%;
+    border: 2px solid black;
+}
+.final_billing tr
+{
+    width: 99%;
+}
+.final_billing td
+{
+    width: 33%;
+    border: 1px solid black;
+}
+.note
+{
+    width: 100%;
+    border: 1px solid black;
+    border-bottom-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+@page{size: auto; margin: 5mm;}
